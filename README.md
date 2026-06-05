@@ -61,6 +61,8 @@ Nome: Animal (veado)
 Tipo: Prefab importado 
 Origem: Asset Store (Gratuito) 
 Função: Criar ambiente coerente natureza
+Na versão de recuperação esse item foi substituido por um Avatar feminino fitness (prefab importado da Asset Storfe do Unity, para simular a professora da aula). Foi adicionado também um menu para a escolha do tipo de aula - aula de Yoga ou de Pranayama). 
+Na versão de recuperação foi mantida a interação de áudio ambiente com sons da natureza (implementado quando o player chega no tapete de yoga na versão avançada, com o script corretamente adicionado na recuperação).
 
 ***SEÇÃO 5 — HIERARQUIA DE GAME OBJECTS 
 Scene: Yoga place 
@@ -73,12 +75,13 @@ A Hierarquia de objetos ficou organizada da seguinte maneira:
 ***SEÇÃO 6 — REPOSITÓRIO GITHUB 
 6.1 Nome do Repositório: https://github.com/jessica-y-y/Metaverso
 6.2 Estrutura de Pastas: somente as recomendadas (Assets, Packages e Project Settings )
+Existem 3 branches: main (atividade básica), atividade avançada e atividade avançada de recuperação.
 
 ***SEÇÃO 7 — REFLEXÃO FINAL 
-7.1 Aprendizado:  foi a minha primeira experiência com o Unity, então tudo foi aprendido do zero. Com as orientações das aulas, foi possível entender e utilizar bem a plataforma e recursos. Quero evoluir para entender melhor a compatibilidade de assets baixados com a versão do Unity antes de ter todo o trabalho de adicionar ao projeto. Além disso, destreza e aprendizado de atalhos são cruciais.  
+7.1 Aprendizado:  foi a minha primeira experiência com o Unity, então tudo foi aprendido do zero. Com as orientações das aulas, foi possível entender e utilizar bem a plataforma e recursos. 
 
-7.2 Dificuldades Previstas: A maior dificuldade, sem dúvida, foi a dificuldade técnica do meu computador, que não permitiu o uso do Unity de forma fluída. Além disso, entender a câmera, pontos de vista e interações possíveis para desenvolver com a Meta foi o ponto desafiador.
+7.2 Dificuldades Previstas: A maior dificuldade, sem dúvida, foi a dificuldade técnica do computador disponível, que não permitiu o uso do Unity de forma fluída. Além disso, entender a câmera, pontos de vista e interações possíveis para desenvolver com a Meta foi desafiador.
 
-7.3 Melhorias Futuras: O ideal é implementar painéis interativos que apresentam guias visuais de posturas de asana, além de áudio ambiente com sons da natureza (a ser implementado quando o player chega no tapete de yoga na versão avançada). A longo prazo, integraria avatares animados demonstrando as práticas.
+7.3 Melhorias Futuras: O ideal é implementar painéis interativos que apresentam guias visuais de posturas de asana. A longo prazo, integraria avatares animados demonstrando as práticas.
 
 
